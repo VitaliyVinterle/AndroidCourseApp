@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0sp">
+
+    <EditText
+        android:id="@+id/titleFieldUpdate"
+        android:layout_height="wrap_content"
+        android:layout_width="234sp"
+        android:background="@drawable/round_edit_text"
+        android:padding="8sp"
+        android:layout_marginLeft="70sp"
+        android:layout_marginTop="80sp" />
+
+    <EditText
+        android:id="@+id/authorFieldUpdate"
+        android:layout_height="wrap_content"
+        android:layout_width="234sp"
+        android:background="@drawable/round_edit_text"
+        android:padding="8sp"
+        android:layout_marginLeft="70sp"
+        android:layout_marginTop="20sp"/>
+
+    <EditText
+        android:id="@+id/yearOfCreationFieldUpdate"
+        android:layout_height="wrap_content"
+        android:layout_width="234sp"
+        android:background="@drawable/round_edit_text"
+        android:padding="8sp"
+        android:layout_marginLeft="70sp"
+        android:layout_marginTop="20sp"/>
+
+    <EditText
+        android:id="@+id/cityOfCreationFieldUpdate"
+        android:layout_height="wrap_content"
+        android:layout_width="234sp"
+        android:background="@drawable/round_edit_text"
+        android:padding="8sp"
+        android:layout_marginLeft="70sp"
+        android:layout_marginTop="20sp"/>
+
+    <EditText
+        android:id="@+id/publishingHouseFieldUpdate"
+        android:layout_height="wrap_content"
+        android:layout_width="234sp"
+        android:background="@drawable/round_edit_text"
+        android:padding="8sp"
+        android:layout_marginLeft="70sp"
+        android:layout_marginTop="20sp"/>
+
+    <EditText
+        android:id="@+id/numberOfPagesFieldUpdate"
+        android:layout_height="wrap_content"
+        android:layout_width="234sp"
+        android:background="@drawable/round_edit_text"
+        android:padding="8sp"
+        android:layout_marginLeft="70sp"
+        android:layout_marginTop="20sp"/>
+
+
+
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_weight="1"
+        android:layout_width="234sp"
+        android:text="EDIT BOOK"
+        android:layout_marginTop="30sp"
+        android:layout_marginLeft="70sp"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/buttonshape"
+        android:layout_marginBottom="70sp"
+        android:layout_height="450sp" />
+
+</LinearLayout>

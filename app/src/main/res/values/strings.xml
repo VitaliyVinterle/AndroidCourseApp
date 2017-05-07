@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Literary Catalog</string>
+    <string name="search_title">Search</string>
+
+
+    <string name="menu_item_add">Add book</string>
+    <string name="menu_item_find_by_title">Find by title</string>
+    <string name="menu_item_find_by_author">Find by author</string>
+    <string name="menu_item_find_by_year">Find by year</string>
+    <string name="menu_item_all_books">All books</string>
+
+
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+
+
+    <string name="tab_item_add">ADD BOOK</string>
+    <string name="tab_item_find_by_title">FIND BY TITLE</string>
+    <string name="tab_item_find_by_author">FIND BY AUTHOR</string>
+    <string name="tab_item_find_by_year">FIND BY YEAR</string>
+    <string name="tab_item_all_books">ALL BOOKS</string>
+
+
+    <string name="count">Count</string>
+    <string name="shareHeader">Choose messenger or social network:</string>
+</resources>

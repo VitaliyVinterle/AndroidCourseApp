@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_option"
+        android:orderInCategory="1"
+        android:title="@string/menu_item_add"
+        android:icon="@mipmap/ic_plus_circle_outline"/>
+
+    <item
+        android:id="@+id/search_by_title_option"
+        android:orderInCategory="2"
+        android:title="@string/menu_item_find_by_title"
+        android:icon="@mipmap/ic_format_title"/>
+
+    <item
+        android:id="@+id/search_by_author_option"
+        android:orderInCategory="3"
+        android:title="@string/menu_item_find_by_author"
+        android:icon="@mipmap/ic_account"/>
+
+    <item
+        android:id="@+id/search_by_year_option"
+        android:orderInCategory="4"
+        android:title="@string/menu_item_find_by_year"
+        android:icon="@mipmap/ic_update"/>
+
+    <item
+        android:id="@+id/all_books_option"
+        android:orderInCategory="5"
+        android:title="@string/menu_item_all_books"
+        android:icon="@mipmap/ic_format_list_bulleted"/>
+</menu>
